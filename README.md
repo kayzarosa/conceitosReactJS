@@ -24,6 +24,9 @@ yarn dev
 ````
 
 ## A aplicação
+
+Aprendendo os conceitos do ReactJS, com uma pequena aplicação que se comunica com o back-end onde salvamos os repositórios, adicionamos novos repositórios, listamos os mesmo e removemos ele da lista.
+
  ![desafio03](https://user-images.githubusercontent.com/20192309/79669804-a5801900-8194-11ea-827f-059e9c014acb.gif)
 
 Feito com ♥ by Kayza :wave:
