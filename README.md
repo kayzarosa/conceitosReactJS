@@ -24,6 +24,6 @@ yarn dev
 ````
 
 ## A aplicação
- <img alt="Aplicação ReactJS" src="https://drive.google.com/open?id=1TP_TJcdrwxGY-V125_H8fkmvW6UBO7rr" width="100%" />
+ ![desafio03](https://user-images.githubusercontent.com/20192309/79669804-a5801900-8194-11ea-827f-059e9c014acb.gif)
 
 Feito com ♥ by Kayza :wave:
