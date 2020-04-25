@@ -9,7 +9,12 @@
 
 ## Versão
 
-<a href="https://nodejs.org/pt/"> NodeJS 12.16.2 </a>
+````sh
+NodeJS 12.16.2
+Yarn 1.22.4
+React 16.11.0
+````
+
 
 ## Instalação
 
@@ -32,6 +37,6 @@ Aprendendo os conceitos do ReactJS, com uma pequena aplicação que se comunica 
  
 ## Repositório do back-end
 
-https://github.com/kayzarosa/NodeJSDesafio01
+<a href="https://github.com/kayzarosa/NodeJSDesafio01">Conceitos de NodeJS</a>
 
 Feito com ♥ by Kayza :wave:
