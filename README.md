@@ -7,6 +7,10 @@
 # :rocket: Desafio 03: Conceitos do ReactJS
 > Se divirta criando os seus projetos.
 
+## Sobre o desafio
+
+O desafio aqui é aprender a manipular nosso back-end utilizando o ReactJS no front e mostrar os repositórios e manipular eles na WEB.
+
 ## Versão
 
 ````sh
